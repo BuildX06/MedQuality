@@ -34,11 +34,15 @@ High Feasibility: MedQuality has high feasibility due to the increasing adoption
 Scalability: The system is scalable and adaptable to different hospital environments.
 # Potential Challenges and Risks
 High Initial Setup Costs
+
 Integration with Existing Hospital Systems
+
 Ensuring Data Security and Patient Privacy
 # Strategies to Overcome Challenges
 Phased Implementation: Implementing the system in phases to manage costs.
+
 Secure Data Transmission: Using secure, encrypted data transmission protocols to ensure data security and patient privacy.
+
 Collaboration with Hospital IT Departments: Collaborating with hospital IT departments for seamless integration.
 # License
 MedQuality is licensed under the MIT License.
@@ -47,9 +51,14 @@ MedQuality is licensed under the MIT License.
 Contributions are welcome! Please open a pull request to contribute to the project.
 
 # Authors:
-SIRI VARSHINI
-JYOTHRIMAI
-RAHUL
-DEERAJ
-SURYA SRIKAR
-SANDESH
+[SIRI VARSHINI]
+
+[JYOTHRIMAI]
+
+[RAHUL]
+
+[DEERAJ]
+
+[SURYA SRIKAR]
+
+[SANDESH]
