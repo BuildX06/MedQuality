@@ -151,6 +151,7 @@ const drugData = {
               "composition": "Empagliflozin",
               "seller": "Boehringer Ingelheim Pharmaceuticals, Inc.",
               "quality": "FDA-approved",
+             "qualityPercentage": "75.6",
             },
         // Add more generic drugs for Metformin
       ]
