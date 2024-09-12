@@ -19,10 +19,10 @@ MedQuality eliminates the need for manual quality checks, reducing human error a
 # Ensures Patient Safety: 
 The system ensures only high-quality supplies are accepted, maintaining patient safety and hospital standards.
 # Innovation and Uniqueness
-# Integration of AI: MedQuality integrates AI for predictive analysis and quality forecasting, providing a unique solution for hospital supply chain management.
-# Automated Rejection of Substandard Supplies: The system automates the rejection of substandard supplies, streamlining hospital operations and reducing waste.
-# Trademark Protection: MedQuality provides trademark protection, ensuring the safety of the supply.
-# Methodology and Process
+ Integration of AI: MedQuality integrates AI for predictive analysis and quality forecasting, providing a unique solution for hospital supply chain management.
+ Automated Rejection of Substandard Supplies: The system automates the rejection of substandard supplies, streamlining hospital operations and reducing waste.
+ Trademark Protection: MedQuality provides trademark protection, ensuring the safety of the supply.
+ Methodology and Process
 ## Flow Chart
 1.Supply Received at the Hospital
 2.Sensor-based Quality Assessment
